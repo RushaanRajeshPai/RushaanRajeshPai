@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushaanrajeshpai" alt="rushaanrajeshpai" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rushaannn_" target="blank"><img src="https://img.shields.io/twitter/follow/rushaannn_?logo=twitter&style=for-the-badge" alt="rushaannn_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rushaan21yo" target="blank"><img src="https://img.shields.io/twitter/follow/rushaannn_?logo=twitter&style=for-the-badge" alt="rushaan21yo" /></a> </p>
 
 - 🔭 I’m currently working on **Gen AI projects**
 
